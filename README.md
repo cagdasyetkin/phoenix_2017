@@ -1,2 +1,2 @@
 # phoenix_2017 with Python
-This is a project I have done during Fall 2017 using Python. It is about international relationships between countries.
+: I analyzed a 2.5 million row dataset about politics
